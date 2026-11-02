@@ -7,7 +7,7 @@
 - [x] Reservar `src/` y `tests/` sin imponer una tecnología.
 - [x] Añadir exclusiones iniciales de secretos y archivos locales.
 - [x] Verificar los archivos y documentar el resultado real.
-- [ ] Guardar los cambios mediante la conexión y verificar los archivos en GitHub.
+- [x] Guardar los cambios mediante la conexión y verificar los archivos en GitHub.
 
 ## Antes de incorporar material privado
 
